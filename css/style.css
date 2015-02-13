@@ -1,0 +1,253 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,400,700);
+
+/*Reset*/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+	margin: 0;
+	padding: 0;
+}
+
+html,
+body {
+	height: 100%;
+	width: 100%;
+	display: block;
+	margin: 0 auto;
+	clear: both;
+	text-align: center;
+	vertical-align: middle;
+	overflow: hidden;
+}
+
+html {
+	overflow: auto;
+	font-size: 62.5%;
+}
+
+video {
+	position: fixed;
+	top: 0;
+	left: 0;
+	margin: auto;
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	z-index: -100;
+	background: url(../images/robotPlaytimeVideo.png) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	transition: 1s opacity;
+}
+#description { 
+	position: absolute;
+	top: 10%;
+	right: 0;
+	font-family: Lato, Helvetica, sans-serif;
+	font-weight: 300; 
+	background: rgba(0, 0, 0, 0.4);
+	border-radius: 4px;
+	color: white;
+	padding: 2rem;
+	max-width: 500px;
+	margin: 2rem;
+	font-size: 2rem;
+	transition: .2s ease;
+	-webkit-transition: .2s ease;
+	-moz-transition: .2s ease;
+}
+h1 {
+	font-size: 4rem;
+}
+h2 {
+	font-size: 3rem;
+}
+/*Pause Button*/
+/*#description button { 
+	display: block;
+	width: 80%;
+	padding: 0.4rem;
+	border: none; 
+	margin: 1rem auto; 
+	font-size: 2rem;
+	background: rgba(255, 255, 255, 0.23);
+	color: #fff;
+	border-radius: 4px; 
+	cursor: pointer;
+	transition: 0.3s background;
+}
+#description button:hover { 
+	background: rgba(0, 0, 0, 0.5);
+}
+.stopfade { 
+	opacity: .5;
+}*/
+
+a {
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+  background:rgba(0,0,0,0.5);
+  padding: .5rem;
+  transition: .6s background; 
+}
+a:hover {
+	background:rgba(0, 0 , 0, 0.9);
+}
+
+/*MailChimp*/
+#mc_embed_signup form {
+	display: block;
+	position: relative;
+	text-align: left;
+}
+#mc_embed_signup input {
+	border: 1px solid #999;
+	-webkit-appearance: none;
+}
+#mc_embed_signup .button {
+	clear: both;
+	background-color: #00a4c1;
+	border: 2px outset #00c9ed;
+	border-radius: 4px;
+	color: #fff;
+	cursor: pointer;
+	font-weight: 900;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: top;
+	white-space: nowrap;
+	width: auto;
+	transition: .2s ease;
+	-webkit-transition: .2s ease;
+	-moz-transition: .2s ease;
+}
+#mc_embed_signup .button:hover {
+	background-color: #00D6FE;
+	border: 2px inset #00c9ed;
+	transition: .2s ease;
+	-webkit-transition: .2s ease;
+	-moz-transition: .2s ease;
+}
+#mc_embed_signup .clear {
+	clear: none;
+	display: inline;
+}
+#mc_embed_signup input.email {
+	border-radius: 4px;
+	display: block;
+	font-family: Lato, Helvetica, sans-serif;
+	font-size: 2rem;
+	font-weight: 300;
+	padding: 1rem;
+	margin-bottom: 1rem;
+	width: 95%;
+	min-width: 130px;
+}
+#mc_embed_signup input.button {
+	display: block;
+	font-family: Lato, Helvetica, sans-serif;
+	font-size: 2rem;
+	padding: 1rem;
+	margin: auto;
+	width: 50%;
+	min-width: 90px;
+}
+
+
+/*Responsive Behaviour*/
+@media screen and (max-width: 500px) { 
+	#description {
+		top: 5%;
+		max-width: 100%;
+		margin: 2rem 1rem;
+		transition: .2s ease;
+		-webkit-transition: .2s ease;
+		-moz-transition: .2s ease;
+	}
+	#mc_embed_signup input.button {
+		width: 80%;
+}
