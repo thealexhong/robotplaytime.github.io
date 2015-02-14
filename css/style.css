@@ -217,6 +217,7 @@ a:hover {
 	clear: none;
 	display: inline;
 }
+#mc_embed_signup input.name,
 #mc_embed_signup input.email {
 	border-radius: 4px;
 	display: block;
@@ -228,6 +229,13 @@ a:hover {
 	width: 95%;
 	min-width: 130px;
 }
+#mc_embed_signup input.name {
+	display: inline-block;
+	width: 44%;
+}
+#mce-FNAME {
+	margin-right: 10px;
+}
 #mc_embed_signup input.button {
 	display: block;
 	font-family: Lato, Helvetica, sans-serif;
@@ -238,8 +246,13 @@ a:hover {
 	min-width: 90px;
 }
 
-
 /*Responsive Behaviour*/
+@media (max-width: 580px) {
+	#mc_embed_signup input.name {
+		margin-right: 0; 
+		width: 95%;
+	}
+}
 @media screen and (max-width: 500px) { 
 	#description {
 		top: 5%;
