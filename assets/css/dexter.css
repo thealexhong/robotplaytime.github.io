@@ -41,7 +41,7 @@ h6 {
 
 p {
     margin-bottom: 20px;
-    font-size: 16px;
+    font-size: 19px;
     line-height: 1.5;
 }
 
@@ -169,7 +169,7 @@ aside {
 header {
     position: relative;
     width: 100%;
-    min-height: auto;
+    height: 100%;
     text-align: center;
     color: #fff;
     background-image: url(../img/teach2.jpg);
@@ -180,12 +180,9 @@ header {
     -o-background-size: cover;
 }
 
-header video {
+video {
     position: relative;
-    top: 0;
-    left: 0;
-    margin: auto;
-    width: 100%;
+    width: 500px;
 }
 
 header .header-content {
