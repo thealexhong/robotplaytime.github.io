@@ -39,6 +39,12 @@ h6 {
     font-family: 'Ubuntu','Helvetica Neue',Arial,sans-serif;
 }
 
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
 p {
     margin-bottom: 20px;
     font-size: 19px;
@@ -47,6 +53,10 @@ p {
 
 .bg-primary {
     background-color: #3490D6;
+}
+
+.bg-muted {
+    background-color: #F5F5F5;
 }
 
 .bg-dark {
@@ -243,13 +253,13 @@ header .header-content .header-content-inner p {
 
 .service-box {
     margin: 50px auto 0;
-    max-width: 400px;
+    max-width: auto;
     vertical-align: middle;
 }
 
 @media(min-width:992px) {
     .service-box {
-        margin: 20px auto 0;
+        margin: 0px auto 0;
     }
 }
 
