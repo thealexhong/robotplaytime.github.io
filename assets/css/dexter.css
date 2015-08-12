@@ -172,7 +172,8 @@ header {
     height: 100%;
     text-align: center;
     color: #fff;
-    background-image: url(../img/teach2.jpg);
+    background: #262626;
+    background-image: url(../img/header.png);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -190,12 +191,6 @@ header .header-content {
     width: 100%;
     padding: 100px 15px;
     text-align: center;
-}
-
-header .header-content .header-content-inner {
-    padding: 2rem;
-    border-radius: 25px;
-    background: rgba(0, 0, 0, 0.7);
 }
 
 header .header-content .header-content-inner h1 {
