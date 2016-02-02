@@ -31,13 +31,19 @@ a:focus {
 }
 
 h1,
-h2,
 h3,
 h4,
 h5,
 h6 {
     font-family: 'Ubuntu','Helvetica Neue',Arial,sans-serif;
 }
+
+h2
+{
+    font-size:3em;
+    font-weight: bold;
+}
+
 
 .vcenter {
     display: inline-block;
