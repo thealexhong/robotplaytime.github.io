@@ -203,12 +203,12 @@ aside {
 
 header {
     position: relative;
-    height: 800px;
+    height: 105%;
     
     text-align: center;
     color: #fff;
-    background: #262626;
-    background-image: url(../img/header2.png);
+    background: #333333;
+    /*background-image: url(../img/header3.png);*/
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
