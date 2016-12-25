@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="450px" height="897px" viewBox="0 0 450 897" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>device</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1BA3FF" offset="0%"></stop>
+            <stop stop-color="#1F1F1F" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="14.1482723" y="12.8925339" width="429.753771" height="877.813394" rx="60"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-6" y="-6" width="441.753771" height="889.813394">
+            <rect x="8.14827228" y="6.89253388" width="441.753771" height="889.813394" fill="white"></rect>
+            <use xlink:href="#path-2" fill="black"></use>
+        </mask>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="265.888878%" id="linearGradient-4">
+            <stop stop-color="#1BA3FF" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home" transform="translate(-910.000000, -92.000000)">
+            <g id="device" transform="translate(910.000000, 92.000000)">
+                <g id="Body">
+                    <g id="Buttons" fill="#1BA3FF">
+                        <rect id="Volume-Down" x="0" y="276.909206" width="10.0216929" height="60.5388547" rx="4"></rect>
+                        <rect id="Volume-up" x="0" y="194.509098" width="10.0216929" height="60.5388547" rx="4"></rect>
+                        <rect id="Mute" x="0" y="129.485884" width="10.0216929" height="40.3592365" rx="4"></rect>
+                        <rect id="On/Off" x="303.008831" y="0" width="73.6889181" height="8.96871922" rx="4"></rect>
+                    </g>
+                    <g>
+                        <use fill="#1B1B1B" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <use stroke="url(#linearGradient-1)" mask="url(#mask-3)" stroke-width="12" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+                <g id="face" transform="translate(38.535849, 130.781955)">
+                    <rect id="Rectangle-7" fill="url(#linearGradient-4)" x="0" y="0" width="378.656604" height="674.030075"></rect>
+                    <polygon id="Path-11-Copy" fill="#000000" points="144.090566 444.323308 236.241509 444.323308 210.757792 461.090226 169.720555 461.090226"></polygon>
+                    <g id="right-eye" transform="translate(56.966038, 196.172932)">
+                        <rect id="Rectangle-8" fill="#016F84" x="0" y="0" width="122.309434" height="11.7368421"></rect>
+                        <rect id="Rectangle-8-Copy" fill="#016F84" x="0" y="124.075188" width="122.309434" height="11.7368421"></rect>
+                        <rect id="Rectangle-10" fill="#FFFFFF" x="0" y="11.7368421" width="122.309434" height="112.338346"></rect>
+                        <rect id="Rectangle-11" fill="#000000" x="26.8075472" y="57.0075188" width="30.1584906" height="30.1804511"></rect>
+                    </g>
+                    <g id="left-eye" transform="translate(199.381132, 196.172932)">
+                        <rect id="Rectangle-8" fill="#016F84" x="0" y="0" width="122.309434" height="11.7368421"></rect>
+                        <rect id="Rectangle-8-Copy" fill="#016F84" x="0" y="124.075188" width="122.309434" height="11.7368421"></rect>
+                        <rect id="Rectangle-10" fill="#FFFFFF" x="0" y="11.7368421" width="122.309434" height="112.338346"></rect>
+                        <rect id="Rectangle-11" fill="#000000" x="26.8075472" y="57.0075188" width="30.1584906" height="30.1804511"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

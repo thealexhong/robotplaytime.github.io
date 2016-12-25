@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="571px" height="523px" viewBox="0 0 571 523" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="265.888878%" id="linearGradient-1">
+            <stop stop-color="#FF7BC6" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#1BA3FF" offset="0%"></stop>
+            <stop stop-color="#1F1F1F" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="6.24563371" y="5.68023073" width="189.711124" height="386.749623" rx="25"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-4" y="-4" width="197.711124" height="394.749623">
+            <rect x="2.24563371" y="1.68023073" width="197.711124" height="394.749623" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="265.888878%" id="linearGradient-5">
+            <stop stop-color="#1BA3FF" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="community" transform="translate(-678.000000, -337.000000)">
+            <g id="Group" transform="translate(678.000000, 337.000000)">
+                <g id="//-iPad-" transform="translate(239.000000, 0.000000)">
+                    <rect id="main-body" stroke="#FF429E" stroke-width="3" fill="#141414" x="5" y="5" width="324.803957" height="516.426291" rx="31"></rect>
+                    <rect id="Rectangle" fill="#FF429E" x="266" y="0" width="31" height="5" rx="2.5"></rect>
+                    <rect id="Rectangle" fill="#FF429E" x="0" y="77" width="5" height="29" rx="2.5"></rect>
+                    <rect id="Rectangle" fill="#FF429E" x="0" y="118" width="5" height="29" rx="2.5"></rect>
+                    <rect id="home-button" fill="#000000" x="155.282428" y="481.259801" width="24.2391013" height="28.6903495" rx="12.1195506"></rect>
+                    <rect id="screen" fill="#E96969" x="24.391281" y="56.6426291" width="286.021395" height="413.141032"></rect>
+                    <polygon id="glare" fill-opacity="0.12" fill="#FFFFFF" points="24.391281 56.6426291 310.412676 56.6426291 24.391281 395.188753"></polygon>
+                    <rect id="camera" fill="#000000" x="169.825889" y="22.2142097" width="14.5434608" height="17.2142097" rx="6"></rect>
+                    <rect id="microphone" fill="#000000" x="155.282428" y="27.9522796" width="4.84782025" height="5.73806989" rx="2.42391013"></rect>
+                    <rect id="Rectangle-7" fill="url(#linearGradient-1)" x="24.2538428" y="56.6426291" width="286.021395" height="413.141032"></rect>
+                    <rect id="Rectangle-16" fill="#000000" x="157" y="327" width="26.1876782" height="5.60481053"></rect>
+                    <rect id="Rectangle-8" fill="#016F84" x="96" y="190" width="68.2750183" height="6.53894562"></rect>
+                    <rect id="Rectangle-8-Copy" fill="#016F84" x="96" y="258" width="68.2750183" height="6.53894562"></rect>
+                    <rect id="Rectangle-10" fill="#FFFFFF" x="96" y="196" width="68.2750183" height="62.5870509"></rect>
+                    <rect id="Rectangle-11" fill="#000000" x="112" y="221" width="16.834936" height="16.8144316"></rect>
+                    <rect id="Rectangle-8" fill="#016F84" x="175" y="190" width="68.2750183" height="6.53894562"></rect>
+                    <rect id="Rectangle-8-Copy" fill="#016F84" x="175" y="258" width="68.2750183" height="6.53894562"></rect>
+                    <rect id="Rectangle-10" fill="#FFFFFF" x="175" y="196" width="68.2750183" height="62.5870509"></rect>
+                    <rect id="Rectangle-11" fill="#000000" x="192" y="221" width="16.834936" height="16.8144316"></rect>
+                    <polygon id="Path-11" fill="#000000" points="145 327 196.440082 327 182.214677 336.341351 159.307056 336.341351"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(0.000000, 69.000000)">
+                    <g id="Body">
+                        <g id="Buttons" fill="#1BA3FF">
+                            <rect id="Volume-Down" x="0" y="122.001478" width="4.42399055" height="26.6723878" rx="2.21199527"></rect>
+                            <rect id="Volume-up" x="0" y="85.6973941" width="4.42399055" height="26.6723878" rx="2.21199527"></rect>
+                            <rect id="Mute" x="0" y="57.0492739" width="4.42399055" height="17.7815919" rx="2.21199527"></rect>
+                            <rect id="On/Off" x="133.760655" y="0" width="32.5293422" height="3.95146486" rx="1.97573243"></rect>
+                        </g>
+                        <g>
+                            <use fill="#141414" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <use stroke="url(#linearGradient-2)" mask="url(#mask-4)" stroke-width="8" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                    <g id="Camera-+-speaker" transform="translate(82.494412, 19.016425)" fill="#000000">
+                        <rect id="Speaker" x="2.34211264" y="16.7937256" width="32.5293422" height="3.45753175" rx="1.72876588"></rect>
+                        <ellipse id="Oval-7" cx="18.4766664" cy="3.45753175" rx="3.64328633" ry="3.45753175"></ellipse>
+                    </g>
+                    <rect id="Rectangle-7" fill="url(#linearGradient-5)" x="17.0113208" y="57.6203008" width="167.154717" height="296.966165"></rect>
+                    <rect id="Rectangle-16" fill="#000000" x="90.2339623" y="253.381579" width="20.709434" height="4.43233083"></rect>
+                    <rect id="Rectangle-8" fill="#016F84" x="42.1584906" y="144.050752" width="53.9924528" height="5.17105263"></rect>
+                    <rect id="Rectangle-8-Copy" fill="#016F84" x="42.1584906" y="198.716165" width="53.9924528" height="5.17105263"></rect>
+                    <rect id="Rectangle-10" fill="#FFFFFF" x="42.1584906" y="149.221805" width="53.9924528" height="49.4943609"></rect>
+                    <rect id="Rectangle-11" fill="#000000" x="54.7320755" y="169.167293" width="13.3132075" height="13.2969925"></rect>
+                    <rect id="Rectangle-8" fill="#016F84" x="105.026415" y="144.050752" width="53.9924528" height="5.17105263"></rect>
+                    <rect id="Rectangle-8-Copy" fill="#016F84" x="105.026415" y="198.716165" width="53.9924528" height="5.17105263"></rect>
+                    <rect id="Rectangle-10" fill="#FFFFFF" x="105.026415" y="149.221805" width="53.9924528" height="49.4943609"></rect>
+                    <rect id="Rectangle-11" fill="#000000" x="117.6" y="169.167293" width="13.3132075" height="13.2969925"></rect>
+                    <polygon id="Path-11" fill="#000000" points="80.6188679 253.381579 121.298113 253.381579 110.048544 260.768797 91.9330072 260.768797"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
